@@ -28,6 +28,6 @@ https://app.swaggerhub.com/apis/kb-katya/REST_API/1.0.0
 <br> **Пример**
 <br> <img src=https://cdn.discordapp.com/attachments/758240677070503977/791937770402349076/unknown.png>
 <br> Реализовано 4 теста: CourseRepoTest, RestRepoTest, StudentRepoTest, TutorsRepoTest.
-<br> **Tests*
+<br> **Tests**
 <br> <img src=https://cdn.discordapp.com/attachments/758240677070503977/791939067469889556/unknown.png>
 
